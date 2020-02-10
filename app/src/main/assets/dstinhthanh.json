@@ -1,0 +1,98 @@
+[
+  {
+    "name":"Miền Nam",
+    "tinh":[
+      {
+        "name":"HCM",
+        "huyen":[
+          {
+            "name":"Bình Thạnh"
+          },
+          {
+            "name":"Quận 2"
+          },
+          {
+            "name":"Quận 3"
+          },
+          {
+            "name":"Quận 4"
+          }
+        ]
+      },
+      {
+        "name":"Đồng Nai",
+        "huyen":[
+          {
+            "name":"Nhơn Trạch"
+          },
+          {
+            "name":"Long Thành"
+          },
+          {
+            "name":"Biên Hòa"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name" : "Miền Trung",
+    "tinh": [
+      {
+        "name": "Thanh Hóa",
+        "huyen": [
+          {
+            "name": "Bỉm Sơn"
+          },
+          {
+            "name": "Sầm Sơn"
+          }
+        ]
+      },
+      {
+        "name": "Nghệ An",
+        "huyen": [
+          {
+            "name": "Cửa Lò"
+          },
+          {
+            "name": "Nghĩa Đàn"
+          },
+          {
+            "name": "Tân Kỳ"
+          }
+        ]
+      },
+      {
+        "name": "Hà Tĩnh",
+        "huyen": [
+          {
+            "name": "Can Lộc"
+          },
+          {
+            "name": "Cẩm Xuyên"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name" : "Miền Bắc",
+    "tinh": [
+      {
+        "name": "Hà Nội",
+        "huyen": [
+          {
+            "name": "Ba Đình"
+          },
+          {
+            "name": "Hoàn Kiếm"
+          },
+          {
+            "name": "Long Biên"
+          }
+        ]
+      }
+    ]
+  }
+]
